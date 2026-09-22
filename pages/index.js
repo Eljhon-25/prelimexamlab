@@ -12,8 +12,8 @@ export default function Home() {
         <p>10 Things That Require Zero Talent</p>
 <ul>
   <li>Being On Time</li>
-  <li>Being Fast Learner</li>
-  <li>On Time</li>
+  <li>Making An Effort</li>
+  <li>Being High Energy</li>
   <li>Having A Positive Attitude</li>
   <li>Being Passionate</li>
   <li>Using Good Body Language</li>
